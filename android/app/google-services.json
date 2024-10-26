@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "580995785797",
+    "project_id": "savey-ecomers",
+    "storage_bucket": "savey-ecomers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580995785797:android:095bda64c0c420ab602f2c",
+        "android_client_info": {
+          "package_name": "com.example.savey_econers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj2gW_jG-zyYAdaHgQ6PYKycnOulnG2Rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
